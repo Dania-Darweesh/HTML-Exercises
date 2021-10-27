@@ -1,0 +1,58 @@
+.divForm1 {
+    border: 1px solid black;
+    padding: 10px;
+    width: 20%;
+}
+
+#form1 {
+    padding: 10px;
+}
+
+.password {
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+#form2 {
+    border: 1px solid black;
+    padding: 15px;
+    margin-top: 2%;
+    width: 30%;
+}
+
+.name {
+    margin-top: 5%;
+}
+
+#email {
+    margin-left: 27px;
+}
+
+#form3 {
+    border: 1px solid black;
+    padding: 15px;
+    margin-top: 10%;
+    width: 30%;
+    margin-left: 20%;
+}
+
+.name3 {
+    margin-top: 5%;
+}
+
+#email3 {
+    margin-left: 2%;
+}
+
+#form4 {
+    border: 1px solid black;
+    margin-top: 2%;
+    width: 30%;
+    margin-left: 20%;
+    padding: 2%;
+}
+
+.text3 {
+    margin-top: 5%;
+    margin-left: 40%;
+}
